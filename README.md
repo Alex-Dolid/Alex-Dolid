@@ -51,7 +51,7 @@
   <code><img title="React Native" height="25" src="images/react-native.svg"></code>
   <code><img title="Expo" height="25" src="images/expo.svg"></code>
   <code><img title="Pino" height="25" src="https://avatars.githubusercontent.com/u/23048140?s=200&v=4"></code>
-  <code><img title="Watson" height="25" src="images/watson.svg"></code>
+  <code><img title="Winston" height="25" src="https://avatars.githubusercontent.com/u/9682013?s=200&v=4"></code>
   <code><img title="JQuery" height="25" src="images/jquery.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Websocket" height="25" src="images/websocket.svg"></code>
