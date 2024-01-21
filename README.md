@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&center=true&lines=Hello,+There!+👋;I+am+Alex+Dolid....;Nice+to+meet+you!+🙂">
   </a>
 </h1>
+
 <code>🔭&nbsp;[Researcher](https://www.linkedin.com/in/alex-dolid/)</code>
 <code>⚪ Community: [Metarhia](https://github.com/metarhia)</code>
 <code>👷 Speciality: Software engineer / Full-Stack @[Captify](https://github.com/captify)</code><br>
@@ -14,9 +15,9 @@
 <code>💡 [Skills](SKILLS.md)</code><br>
 <code>💬 Telegram: [@alex_dolid](https://t.me/alex_dolid)</code>
 <code>📫 [dolid.sasha@gmail.com](mailto:dolid.sasha@gmail.com)</code>
-<hr>
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+
 <p align="center">
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="TypeScript" height="25" src="images/typescript.svg"></code>
