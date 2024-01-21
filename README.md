@@ -84,7 +84,7 @@
   <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
   <code><img title="Credstash" height="25" src="https://avatars.githubusercontent.com/u/13857002?s=200&v=4"></code>
   <code><img title="WebStorm" height="25" src="images/webstorm.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
   <code><img title="Figma" height="25" src="images/figma.png"></code>
   <code><img title="Jira" height="25" src="images/jira.png"></code>
   <code><img title="Confluence" height="25" src="images/confluence.png"></code>
