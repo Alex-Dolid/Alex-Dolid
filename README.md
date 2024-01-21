@@ -90,7 +90,7 @@
   <code><img title="Confluence" height="25" src="images/confluence.svg"></code>
   <code><img title="Atlassian" height="25" src="images/atlassian.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="DDD" height="25" src="images/ddd.png"></code>
+  <code><img title="DDD" height="25" src="images/ddd.svg"></code>
   <code><img title="OOP" height="25" src="images/oop.png"></code>
   <code><img title="SOLID" height="25" src="images/solid.png"></code>
   <code><img title="GRASP" height="25" src="images/grasp.png"></code>
