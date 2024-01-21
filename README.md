@@ -7,7 +7,7 @@
 </h1>
 
 <code>🔭&nbsp;[Researcher](https://www.linkedin.com/in/alex-dolid/)</code>
-<code>⚪ Community: [Metarhia](https://github.com/metarhia)</code>
+<code>⚪ Community: [Metarhia](https://github.com/metarhia)</code><br>
 <code>👷 Speciality: Software engineer / Full-Stack @[Captify](https://github.com/captify)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code><br>
 <code>📦 Tech stack[Front-end]: React.js + Mobx/Redux+Redux-Saga + MUI + React-Query OR Vue.js + Vuex + Vuetify -> [Details](FRONTEND_DETAILS.md)</code><br>
