@@ -1,3 +1,5 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&center=true&lines=Hello,+There!+👋;I+am+Alex+Dolid....;Nice+to+meet+you!+🙂">
