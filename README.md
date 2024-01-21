@@ -45,7 +45,7 @@
   <code><img title="ElasticSearch" height="25" src="images/elasticsearch.svg"></code>
   <code><img title="Redis" height="25" src="images/redis.svg"></code>
   <code><img title="Auth0" height="25" src="images/auth0.svg"></code>
-  <code><img title="Cerbos" height="25" src="images/cerbos.svg"></code>
+  <code><img title="Cerbos" height="25" src="images/cerbos.png"></code>
   <code><img title="NX" height="25" src="images/nx.svg"></code>
   <code><img title="Electron.js" height="25" src="images/electron.svg"></code>
   <code><img title="React Native" height="25" src="images/react-native.svg"></code>
