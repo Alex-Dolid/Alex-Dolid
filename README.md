@@ -55,7 +55,7 @@
   <code><img title="JQuery" height="25" src="images/jquery.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Websocket" height="25" src="images/websocket.svg"></code>
-  <code><img title="RESTful API" height="25" src="images/restful-api.svg"></code>
+  <code><img title="RESTful API" height="25" src="images/restful-api.png"></code>
   <code><img title="Postman" height="25" src="images/postman.svg"></code>
   <code><img title="Swagger" height="25" src="images/swagger.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
