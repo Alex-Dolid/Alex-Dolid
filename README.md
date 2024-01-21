@@ -39,7 +39,7 @@
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Knex" height="25" src="images/knex.svg"></code>
   <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
-  <code><img title="Mongo Atlas" height="25" src="images/mongo-atlas.svg"></code>
+  <code><img title="MongoDB Atlas" height="25" src="images/mongodb-atlas.svg"></code>
   <code><img title="Mongoose" height="25" src="images/mongoose.svg"></code>
   <code><img title="Prisma" height="25" src="images/prisma.svg"></code>
   <code><img title="ElasticSearch" height="25" src="images/elasticsearch.svg"></code>
