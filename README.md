@@ -78,7 +78,7 @@
   <code><img title="Git" height="25" src="images/git.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="GitLab" height="25" src="images/gitlab.svg"></code>
-  <code><img title="TeamCity" height="25" src="images/teamcityb.svg"></code>
+  <code><img title="TeamCity" height="25" src="images/teamcity.svg"></code>
   <code><img title="Jenkins" height="25" src="images/jenkins.svg"></code>
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
   <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
