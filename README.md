@@ -82,7 +82,7 @@
   <code><img title="Jenkins" height="25" src="images/jenkins.svg"></code>
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
   <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
-  <code><img title="Credstash" height="25" src="https://avatars.githubusercontent.com/u/9482126?s=200&v=4"></code>
+  <code><img title="Credstash" height="25" src="https://avatars.githubusercontent.com/u/13857002?s=200&v=4"></code>
   <code><img title="WebStorm" height="25" src="images/webstorm.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Figma" height="25" src="images/figma.png"></code>
