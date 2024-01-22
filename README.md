@@ -10,8 +10,8 @@
 <code>⚪ Community: [Metarhia](https://github.com/metarhia)</code><br>
 <code>👷 Speciality: Software engineer / Full-Stack @[Captify](https://github.com/captify)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code><br>
-<code>📦 Tech stack[Front-end]: React.js + Mobx/Redux+Redux-Saga + MUI + React-Query OR Vue.js + Vuex + Vuetify -> [Details](FRONTEND_DETAILS.md)</code><br>
-<code>📦 Tech stack[Back-end]: Node.js + NestJS/Fastify/Express(but it is bull shit) + MongoDB+Mongoose/Prisma OR PostreSQL+knex/Prisma + ElasticSearch + Redis -> [Details](BACKEND_DETAILS.md)</code><br>
+<code>📦 Tech stack[Front-end]: React + Mobx/Redux+Redux-Saga + React-Query + MUI OR Vue + Vuex + Vuetify -> [Details](FRONTEND_DETAILS.md)</code><br>
+<code>📦 Tech stack[Back-end]: Nodejs + NestJS/Fastify/Express(but it is bull shit) + MongoDB+Mongoose/Prisma OR PostreSQL+knex/Prisma + ElasticSearch + Redis -> [Details](BACKEND_DETAILS.md)</code><br>
 <code>📦 Tech stack[Desktop]: Electron.js + Electron Forge -> [Details](DESKTOP_DETAILS.md)</code><br>
 <code>📦 Tech stack[Mobile]: React Native + Expo -> [Details](MOBILE_DETAILS.md)</code><br>
 <code>💡 [Skills](SKILLS.md)</code><br>
@@ -24,15 +24,15 @@
 const alex = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript"],
-    askMeAbout: ["front-end", "back-end", "web dev", "architecture", "best practice", "tech", "app dev", "theology🔥"],
+    askMeAbout: ["front-end", "back-end", "web dev", "architecture", "best practice", "tech", "app dev", "theology🔥", "history"],
     technologies: {
         frontEnd: {
-            react: ["Redux", "Redux-Saga", "MobX", "React Query"],
-            vue: ["Vuex", "VTU", "Vitest", "Vue Query", "Fetch"],
-            common: [],
+            react: ["Redux", "Redux-Saga", "MobX", "React Query", "MUI"],
+            vue: ["Vuex", "VTU", "Vitest", "Vue Query", "Vuetify"],
+            common: ["Axios", "Fetch", "Babel", "Bootstrap", "Cypress", "SCSS"],
         },
         backEnd: {
-            js: ["Node", "NestJS", "Fastify", "Express"],
+            js: ["Node", "NestJS", "Fastify", "Express", "Pino", "Swagger", "RESTful API", "WebSocket", "RPC"],
         },
         desktop: {
             js: ["Electron", "Electron Forge/electron-builder"],
@@ -41,8 +41,8 @@ const alex = {
             js: ["Rect Native", "Expo"],
         },
         devOps: ["AWS", "Docker🐳", "Kubernetes", "Nginx"],
-        databases: ["MongoDB", "PostgreSQL", "Redis", "ElasticSearch"],
-        misc: [],
+        databases: ["MongoDB", "PostgreSQL", "Redis", "ElasticSearch", "MongoDB Atlas", "Prisma],
+        misc: ["nx", "npm", "yarn", "pnpm", "Webpack", "Jest", "Vite", "Auth0", "Cerbos", "Credstash"],
     },
     architecture: ["PWA", "SPA", "Microfrontends", "Microservices", "Onion(Layer)", "DDD", "SOLID", "GRASP", "GoF"],
     currentFocus: "Learning Metarhia Technology Stack and its development principles",
@@ -56,7 +56,7 @@ const alex = {
         Arc: "Soon(Bible)",
         Lat: "Soon(Bible)",
     },
-    funFact: "",
+    funFact: "studied to be a customs officer",
 };
 ```
 
