@@ -16,6 +16,7 @@
 <code>📦 Tech stack[Mobile]: React Native + Expo -> [Details](MOBILE_DETAILS.md)</code><br>
 <code>💡 [Skills](SKILLS.md)</code><br>
 <code>💬 Telegram: [@alex_dolid](https://t.me/alex_dolid)</code>
+<code>💬 LinkedIn: [Alex Dolid](https://linkedin.com/in/alex-dolid/)</code>
 <code>📫 [dolid.sasha@gmail.com](mailto:dolid.sasha@gmail.com)</code>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
