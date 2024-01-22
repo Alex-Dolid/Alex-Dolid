@@ -18,6 +18,48 @@
 <code>💬 Telegram: [@alex_dolid](https://t.me/alex_dolid)</code>
 <code>📫 [dolid.sasha@gmail.com](mailto:dolid.sasha@gmail.com)</code>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const alex = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "TypeScript"],
+    askMeAbout: ["front-end", "back-end", "web dev", "architecture", "best practice", "tech", "app dev", "theology🔥"],
+    technologies: {
+        frontEnd: {
+            react: ["Redux", "Redux-Saga", "MobX", "React Query"],
+            vue: ["Vuex", "VTU", "Vitest", "Vue Query", "Fetch"],
+            common: [],
+        },
+        backEnd: {
+            js: ["Node", "NestJS", "Fastify", "Express"],
+        },
+        desktop: {
+            js: ["Electron", "Electron Forge/electron-builder"],
+        },
+        mobile: {
+            js: ["Rect Native", "Expo"],
+        },
+        devOps: ["AWS", "Docker🐳", "Kubernetes", "Nginx"],
+        databases: ["MongoDB", "PostgreSQL", "Redis", "ElasticSearch"],
+        misc: [],
+    },
+    architecture: ["PWA", "SPA", "Microfrontends", "Microservices", "Onion(Layer)", "DDD", "SOLID", "GRASP", "GoF"],
+    currentFocus: "Learning Metarhia Technology Stack and its development principles",
+    passion: "Theology🔥",
+    languages: {
+        Ukr: "Native",
+        Rus: "Native",
+        Eng: "Intermediate",
+        Heb: "Beginner(Masora, Bible)",
+        Grc: "Beginner(Koine, Bible)",
+        Arc: "Soon(Bible)",
+        Lat: "Soon(Bible)",
+    },
+    funFact: "",
+};
+```
+
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <p align="center">
