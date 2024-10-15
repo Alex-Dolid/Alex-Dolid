@@ -8,7 +8,7 @@
 
 <code>🔭&nbsp;[Researcher](https://www.linkedin.com/in/alex-dolid/)</code>
 <code>⚪ Community: [Metarhia](https://github.com/metarhia)</code><br>
-<code>👷 Speciality: Software engineer / Full-Stack @[Captify](https://github.com/captify)</code><br>
+<code>👷 Speciality: Software engineer / Full-Stack @[Hirevel](https://github.com/hirevel)</code><br>
 <code>🧑‍💻 Languages: JavaScript, TypeScript</code><br>
 <code>📦 Tech stack[Front-end]: React + Mobx/Redux+Redux-Saga + React-Query + MUI OR Vue + Vuex + Vuetify -> [Details](FRONTEND_DETAILS.md)</code><br>
 <code>📦 Tech stack[Back-end]: Nodejs + NestJS/Fastify/Express(but it is bull shit) + MongoDB+Mongoose/Prisma OR PostreSQL+knex/Prisma + ElasticSearch + Redis -> [Details](BACKEND_DETAILS.md)</code><br>
